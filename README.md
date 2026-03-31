@@ -1,6 +1,6 @@
 📘 Digital Literacy Portfolio
 
-👩‍💻 Student Details
+Student Details
 	•	Name: Yashi Bhushan
 	•	Registration Number: 25BCE10824
 	•	Course: BTech CSE Core
@@ -39,7 +39,7 @@ The portfolio covers various aspects of digital literacy, including creating awa
 	•	HackerRank coding challenge
 	•	Digital Literacy Quiz (Google Form)
 	
-👉 Form Link: https://forms.gle/tWKS8eYS88ccNdsj6
+ Form Link: https://forms.gle/tWKS8eYS88ccNdsj6
 
 🔹 Task 4 – Email Etiquette
 	•	Professional Email Drafts
@@ -51,7 +51,7 @@ The portfolio covers various aspects of digital literacy, including creating awa
 
 ⸻
 
-🛠️ Tools & Platforms Used
+ Tools & Platforms Used
 	•	Canva
 	•	GitHub
 	•	LinkedIn
