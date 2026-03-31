@@ -1,6 +1,6 @@
 📘 Digital Literacy Portfolio
 
-👩‍💻 Student DetailS
+👩‍💻 Student Details
 	•	Name: Yashi Bhushan
 	•	Registration Number: 25BCE10824
 	•	Course: BTech CSE Core
